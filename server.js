@@ -9,6 +9,7 @@ app.use(express.static(__dirname + "/webpage"));
 
 
 require("./routes/apiNote")(app)
+require("./routes/html")(app)
 
 
 app.listen(PORT, function() {
