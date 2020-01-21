@@ -24,6 +24,6 @@ This application uses node.js and express to write a note and delete a note.  Th
 
 
 **Images of Deployed Webpage**
-
+![Example Webpage](./webpage/images/homepage.png)                      ![Example Webpage](./webpage/images/notepage.png)
 
 
