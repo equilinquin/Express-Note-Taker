@@ -1,8 +1,8 @@
 const express = require("express");
 const app = express();
 
-const PORT = 1000;
-
+const PORT = process.env.PORT || 1000;
+ 
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 app.use(express.static(__dirname + "/webpage"));
