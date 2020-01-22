@@ -7,7 +7,7 @@ port: localhost:1000.   Once on the homepage, the user is prompted to "Get Start
 clicked, it will bring them to the notes page where they can start writing notes.  There are buttons to 
 save, write a note, and delete a note.
 
-## Deployment
+## Deployment on web Browser
 
 -Clone repo to your computer.
 
