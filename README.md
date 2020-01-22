@@ -1,13 +1,13 @@
 # Express-Note-Taker
 
-**Description**
+## Description
 
 This application uses node.js and express to write a note and delete a note.  The webpage is available at 
 port: localhost:1000.   Once on the homepage, the user is prompted to "Get Started".  When the button is 
 clicked, it will bring them to the notes page where they can start writing notes.  There are buttons to 
 save, write a note, and delete a note.
 
-**Deployment**
+## Deployment
 
 -Clone repo to your computer.
 
@@ -19,7 +19,7 @@ save, write a note, and delete a note.
 
 -Open browser to 'http://localhost:1000'
 
-**Built With**
+## Built With
 
 -HTML
 
@@ -31,7 +31,7 @@ save, write a note, and delete a note.
 
 -Node.js
 
-**Packages Used**
+## Packages Used
 
 -Express
 
@@ -40,7 +40,7 @@ save, write a note, and delete a note.
 -path
 
 
-**Images of Deployed Webpage**
+## Images of Deployed Webpage
 
 ![Example Webpage](./webpage/assets/images/homepage.png)                      ![Example Webpage](./webpage/assets/images/notepage.png)
 
